@@ -16,7 +16,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-6 py-6 text-center text-slate-400">
-        <h1>Developed by Luis</h1>
+        <h1>Developed by Ryu Hyeon</h1>
       </div>
     </footer>
   );
